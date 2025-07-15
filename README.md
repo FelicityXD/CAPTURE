@@ -14,7 +14,10 @@ Rush (Scans all the network profiles and security key from the executed device)
 
 
 
+Scripted using python.
 
 
+
+captur3 by Felicity
 
 
